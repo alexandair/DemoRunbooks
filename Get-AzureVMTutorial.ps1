@@ -26,4 +26,3 @@
     } else {
         Write-Output $VMs[0..9]
     }
-}
